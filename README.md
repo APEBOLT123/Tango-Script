@@ -34,5 +34,4 @@ python tango_ide.py
 
 # About The Project.
 
-This project was made really fast, there will be updates but im going to keep it simple, im planning on adding variables. 
-
+This project was made really fast, it will NOT be updated, feel free to commit.
