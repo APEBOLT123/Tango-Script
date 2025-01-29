@@ -15,6 +15,7 @@ Button Animations: Nice hover and click animations on buttons.
 
 # Commands:
 tprint: Prints whatever string to output, like tprint "Hello World!".
+
 tadd: Adds two or more numbers together, such as tadd 2 + 3 * 4.
 
 # Setup:
